@@ -18,7 +18,7 @@ The notebook performs the following tasks:
 
 ## 📁 Files
 
-- `AI/ML week1.ipynb`: Main colab Notebook
+- `Iris_classification.ipynb`: Main colab Notebook
 - `README.md`: This project description
 
 ## 🚀 How to Run
@@ -28,4 +28,4 @@ The notebook performs the following tasks:
 3. Open a terminal or Anaconda prompt, then run:
 
    ```bash
-   colab notebook AI/ML week1.ipynb
+   colab notebook Iris_classification.ipynb
